@@ -7,7 +7,10 @@ Application built on flutter using dart so it will work on both iOS and android 
 ### Prerequisite
 1- Android Studio or any other editor for dart.
 2- FLutter must be installed and SDK path must be setUp for installation please check https://flutter.dev/docs/get-started/install.
-3- Open main application folder in any Compiler and run the application. (you can run it either on device or on simulator).
+4- Open terminal and go to any of your project directory
+5- Write Command flutter create "toy_robot"
+6- Copy and replace all these files within your project.
+7- Open main application folder in any Compiler and run the application. (you can run it either on device or on simulator).
 
 
 ## About App
